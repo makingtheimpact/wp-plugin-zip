@@ -1,0 +1,13 @@
+PLUGIN NAME: your-plugin
+PLUGIN DIRECTORY: /path/to/your/plugin
+OUTPUT DIRECTORY: /path/to/output/directory
+MAIN PLUGIN FILE: your-plugin.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: another-plugin
+PLUGIN DIRECTORY: /path/to/your/plugin2
+OUTPUT DIRECTORY: /path/to/output/directory2
+MAIN PLUGIN FILE: another-plugin.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json

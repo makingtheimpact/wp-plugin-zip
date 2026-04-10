@@ -1,13 +1,161 @@
-PLUGIN NAME: your-plugin
-PLUGIN DIRECTORY: /path/to/your/plugin
-OUTPUT DIRECTORY: /path/to/output/directory
-MAIN PLUGIN FILE: your-plugin.php
+PLUGIN NAME: show-my-social-icons
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/show-my-social-icons
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/Social Icons
+MAIN PLUGIN FILE: show-my-social-icons.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json,show_my_social_icons_plugin_icon.ai
+-------
+PLUGIN NAME: hui-social
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/hui-social
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/Hui Social
+MAIN PLUGIN FILE: hui-social.php
 EXCLUDE DIRS: node_modules,.git
 EXCLUDE FILES: .gitignore,package-lock.json
 -------
-PLUGIN NAME: another-plugin
-PLUGIN DIRECTORY: /path/to/your/plugin2
-OUTPUT DIRECTORY: /path/to/output/directory2
-MAIN PLUGIN FILE: another-plugin.php
+PLUGIN NAME: my-events-calendar
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/my-events-calendar
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/My Events Calendar
+MAIN PLUGIN FILE: my-events-calendar.php
 EXCLUDE DIRS: node_modules,.git
 EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: umami-tracker
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/umami-tracker
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/Umami Tracker
+MAIN PLUGIN FILE: umami-tracker.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: simple-maintenance-mode
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/simple-maintenance-mode
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/Simple Maintenance Mode
+MAIN PLUGIN FILE: simple-maintenance-mode.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: hui-social-app
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/hui-social-app
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/Hui Social App
+MAIN PLUGIN FILE: hui-social-app.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: wp-merge-subcategories
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/wp-merge-subcategories
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/WP Merge Subcategories
+MAIN PLUGIN FILE: wp-merge-subcategories.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: secure-fluentform-uploads
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/secure-fluentform-uploads
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/Secure FluentForm Uploads
+MAIN PLUGIN FILE: secure-fluentform-uploads.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: gift-certificates-for-fluentforms
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/gift-certificates-for-fluentforms
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/Gift Certificates for Fluent Forms
+MAIN PLUGIN FILE: gift-certificates-for-fluentforms.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: youtube_shorts
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/youtube_shorts
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/YouTube Shorts
+MAIN PLUGIN FILE: youtube_shorts.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: typeform-quizzes
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/typeform-quizzes
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/typeform-quizzes
+MAIN PLUGIN FILE: typeform-quizzes.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: hui-video-slider
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/hui-video-suite/plugins/hui-video-slider
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/hui-video-slider
+MAIN PLUGIN FILE: hui-video-slider.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: wp-help-docs
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/wp-help-docs
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/wp-help-docs
+MAIN PLUGIN FILE: wp-help-docs.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: mtx-visibility
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/mtx-visibility
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/mtx-visibility
+MAIN PLUGIN FILE: mtx-visibility.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: smart-content-access
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/smart-content-access
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/smart-content-access
+MAIN PLUGIN FILE: smart-content-access.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: invoice-pro-for-surecart
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/Invoice Pro for SureCart/invoice-pro-for-surecart
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/Invoice Pro for SureCart
+MAIN PLUGIN FILE: invoice-pro-for-surecart.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: MerchSync-for-SureCart-printful-integration
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/MerchSync-for-SureCart-printful-integration
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/MerchSync For SureCart Printful Integration
+MAIN PLUGIN FILE: merchsync-printful.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: MerchSync-for-SureCart-printify-integration
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/MerchSync-for-SureCart-printify-integration
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/MerchSync For SureCart Printify Integration
+MAIN PLUGIN FILE: merchsync-printify.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: merchsyncwp
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/merchsyncwp
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/MerchSyncWP
+MAIN PLUGIN FILE: merchsyncwp.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: hui-ads-library
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/hui-video-suite/plugins/hui-ads-library
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/hui-ads-library
+MAIN PLUGIN FILE: hui-ads-library.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: hui-image-carousel
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/hui-video-suite/plugins/hui-image-carousel
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/hui-image-carousel
+MAIN PLUGIN FILE: hui-image-carousel.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: woocommerce-variation-availability
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/woocommerce-variation-availability
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/woocommerce-variation-availability
+MAIN PLUGIN FILE: woocommerce-variation-availability.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+-------
+PLUGIN NAME: woocommerce-bulk-catalog-tools
+PLUGIN DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/woocommerce-bulk-catalog-tools
+OUTPUT DIRECTORY: /home/master/Documents/GitHub/3 WordPress Plugins/DevPackages/woocommerce-bulk-catalog-tools
+MAIN PLUGIN FILE: woocommerce-bulk-catalog-tools.php
+EXCLUDE DIRS: node_modules,.git
+EXCLUDE FILES: .gitignore,package-lock.json
+
